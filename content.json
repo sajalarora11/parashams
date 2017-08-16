@@ -1,0 +1,77 @@
+{
+	"index":[
+		{
+			"caro_title":"SHAMS AALAM",
+			"banner_quote": "My disablity dint make me a disabled but it made me even more than an abled.",
+			"index_heading1": "ACHIEVEMENTS",
+			"index_heading2": "SWIMMING",
+			"index_heading3": "KARATE"
+		},
+		{
+		"title": "Limca Book of World Record",
+		"image": "/images/home/home_limca.jpg",
+		"desc": " Bieng with disablity, I successfully participated in the Navy Day Open Sea Swimming Competition 2014 under the differently-abled category, held at the Indian Naval Waterman Ship Training Centre, Colaba, Mumbai on Nov 26, 2014. There I completed the 6 km open sea swimming event in 1 hr 40 min 28 sec, becoming the first paraplegic with 100% disability to do so."
+	},
+
+	{
+		"title": "World Record Academy, Goa",
+		"image": "/images/home/home_goa.JPG",
+		"desc": "Mohammad Shams Aalam Shaikh's feat for the longest open-sea swim by a paraplegic has been recorded by the World Record Academy. Earlier this month Shaikh swam 8km in four hours and four minutes in the open sea, off Candolim beach."
+	},
+
+	{
+		"title": "2016 Speedo Can Am Para-swimming Championship, Canada",
+		"image": "/images/home/home_canada.jpg",
+		"desc": "I won bronze medal in 100 meter breast stroke in S5 category that made me 4th in Asian ranking and 27th in world ranking in 2016."
+	},
+	{
+		"title": "World Para Swimming Championship, Berlin",
+		"image": "/images/home/home_berlin.JPG",
+		"desc": "This is one of my most recent and the most challenging Para World Championship that was held in Berlin, Germany. I got the certificate for participating in that world series. This was the most memorable championship where I also realised that I need to work more hard to compete with world's toughtest champions."
+	},
+	{
+		"title": "Karate Black Belt",
+		"image": "/images/home/home_karate.JPG",
+		"desc": "I started learning shito ryu style of karate under the guidance of sensai Umesh Murkar and completed my black belt diploma in 2008. I have won 50+ medals in karate from district,state,national and international championship. I am also participating in wheelchair karate."
+	}
+],
+	"support": {
+		"don_title": "Need Sponser",
+		"don_title_desc": "I am working hard to increase my stamina and crossing my limits to compete with worlds toughest paraswimmers. I am about to play in the upcoming open para swimming games which are going to held in Kenya and Portgal. Qualifying these games will open the doors for me to participate in my dream, Para Asian Games 2018. So, I am looking for a sponsor who can take care of my training and equipments expenses on yearly basis. This is gonna be a great contribution towards achieving all my goals.",
+		"don_heading1": "IWAS World Games 2017, Portugal",
+		"don_desc1": "This is the most upcoming championship in am going to be participate in. This
+		 is going to be from 20th to 6th Dec 2017.",
+		"don_heading2": "International para swimming championship, Kenya",
+		"don_desc2": "One of my another short term goal is to play in the International Para Swimming Championships which is going to be from 8th to 12th Feb. 2018.",
+		"don_goal": "Para Asian Games 2018",
+		"don_goal_desc": "I have been qualified to represent India in the upcoming Para Asian Games which is going to held in the mid 2018 in Tokyo. This championship is what that I had always dreamed about.",
+		"short_term": "SHORT TERM GOALS",
+		"long_term": "MY GOAL"
+	},
+		"gallery": [
+			"/images/gallery/01.png",
+			"/images/gallery/02.png",
+			"/images/gallery/03.png",
+			"/images/gallery/04.png",
+			"/images/gallery/05.png",
+			"/images/gallery/06.png",
+			"/images/gallery/07.png",
+			"/images/gallery/08.png",
+			"/images/gallery/09.png",
+			"/images/gallery/10.png",
+			"/images/gallery/11.png",
+			"/images/gallery/12.png",
+			"/images/gal13.jpg",
+			"/images/gal14.jpg",
+			"/images/gal15.jpg",
+			"/images/gal16.jpg"
+		],
+		"about": {
+			"title":"About me",
+			"image": "/images/about/cover1.jpg",
+			"desc":"Mohommad Sheikh Shams Aalam was born in",
+			"bio": "TO be coming soon..."
+		}
+		
+}
+

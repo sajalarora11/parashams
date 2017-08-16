@@ -1,0 +1,72 @@
+{
+	"index":[
+		{
+			"caro_title":"SHAMS AALAM",
+			"banner_quote": "Disablity doest makes you disable, it makes you more strengthen...",
+			"index_heading1": "ACHIEVEMENTS",
+			"index_heading2": "SWIMMING",
+			"index_heading3": "KARATE"
+		},
+		{
+		"title": "Limca Book of World Record",
+		"image": "/images/limca.jpg",
+		"desc": " Mohammad Shams Aalam Shaikh (b July 17, 1986) of Mumbai, a paraplegic with 100% disability due to spinal cord injury, successfully participated in the Navy Day Open Sea Swimming Competition 2014 under the differently-abled category, held at the Indian Naval Waterman Ship Training Centre, Colaba, Mumbai on Nov 26, 2014. He completed the 6 km open sea swimming event in 1 hr 40 min 28 sec, becoming the first paraplegic with 100% disability to do so."
+	},
+
+	{
+		"title": "World Record Academy, Goa",
+		"image": "/images/goa.JPG",
+		"desc": "Mohammad Shams Aalam Shaikh's feat for the longest open-sea swim by a paraplegic has been recorded by the World Record Academy. Earlier this month Shaikh swam 8km in four hours and four minutes in the open sea, off Candolim beach."
+	},
+
+	{
+		"title": "Open Games Championship, Canada",
+		"image": "/images/inter.jpg",
+		"desc": "Mohammad Shams Aalam Shaikh participated in couple of international para swimming championships. Recently he went to Germany for the championship to represent India in the world chamionship. "
+	},
+	{
+		"title": "World Para Swimming Championship, Berlin",
+		"image": "to be continued",
+		"desc": "This is one of my most recent and the most challenging Para World Championship that was held in Berlin, Germany. I got the certificate for participating in that world series. This was the most memorable championship. "
+	},
+	{
+		"title": "Karate Black Belt",
+		"image": "/images/karate1.JPG",
+		"desc": "Shams Aalam is a black belt holder in Karate and holds over 40 medals. Due to his skills he was selected as the qualified coach for Karate"
+	}
+],
+	"support": {
+		"don_title": "Need Sponser",
+		"don_title_desc": "I am working hard to increase my stamina and crossing my limits to compete with worlds toughest paraswimmers. Recently, I got seleced for the Para Asian Games 2018, Tokyo. So, I am looking for a sponsor who can take care of my training and equipments expenses on yearly basis. This is gonna be a great contribution towards achieving all my goals.",
+		"don_heading1": "IWAS World Games 2017, Portugal",
+		"don_head1_desc": "I got selected for the IWAS World Games 2017 Para Swimming which is going to be held in later this year. This series has more than 20 countries participating in it.",
+		"don_heading2": "Para Asian Games 2018",
+		"don_head2_desc": "I have been qualified to represent India in the upcoming Para Asian Games which is going to held in the mid 2018 in Tokyo. This championship is what that I had always dreamed about."
+	},
+		"gallery": [
+			"/images/gallery/01.png",
+			"/images/gallery/02.png",
+			"/images/gallery/03.png",
+			"/images/gallery/04.png",
+			"/images/gallery/05.png",
+			"/images/gallery/06.png",
+			"/images/gallery/07.png",
+			"/images/gallery/08.png",
+			"/images/gallery/09.png",
+			"/images/gallery/10.png",
+			"/images/gallery/11.png",
+			"/images/gallery/12.png",
+			"/images/gal13.jpg",
+			"/images/gal14.jpg",
+			"/images/gal15.jpg",
+			"/images/gal16.jpg"
+		],
+		"about": {
+			"title":"About me",
+			"image":"wait for it...",
+			"desc":"Mohommad Sheikh Shams Aalam was born in",
+			"bio": "TO be coming soon..."
+		}
+		
+}
+

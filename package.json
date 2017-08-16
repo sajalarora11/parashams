@@ -1,0 +1,11 @@
+{
+  "name": "shams",
+  "version": "0.0.1",
+  "description": "An official website for para swimmer Shiekh Shams Alam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sajal Arora",
+  "license": "ISC"
+}
