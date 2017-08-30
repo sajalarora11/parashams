@@ -162,23 +162,18 @@ h6 {
     font-size: 3em;
 }
 
-.parallex3 {
+.about_main {
     padding: 100px 0;
-    color: #f8f8f8;
-    background-image: url("/images/about/about5.JPG");
+    color: #fff;
     height: 500px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    -webkit-filter: blur(5px);
-  -moz-filter: blur(5px);
-  -o-filter: blur(5px);
-  -ms-filter: blur(5px);
-  filter: blur(5px);
-}
+    background-color: blue;
   }
+
+.about_main  {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #fff;
+
+}
 
 
 
