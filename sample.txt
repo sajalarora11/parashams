@@ -60,7 +60,7 @@
 			"/images/gal14.jpg",
 			"/images/gal15.jpg",
 			"/images/gal16.jpg"
-		],
+		],s
 		"about": {
 			"title":"About me",
 			"image":"wait for it...",
@@ -69,4 +69,6 @@
 		}
 		
 }
+
+// HEre are the changes those have to get commiteds		
 

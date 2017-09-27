@@ -1,5 +1,6 @@
 var mainJSON = require('../content.json');
-
+var nodemailer = require('nodemailer');
+var bodyParser = require('body-parser');
 var index = mainJSON.index;
 
 exports.home = function(req, res){
@@ -31,11 +32,37 @@ exports.about = function(req, res) {
 };
 
 exports.contact = function(req, res) {
-	contact = mainJSON.contact;
+	var contact = mainJSON.contact;
+	
+
 	res.render('contact', {
-		con: contact
+		contact: contact
 	});
 };
+
+exports.send = function(req,res) {
+	var transporter = nodemailer.createTransport({
+		servies: 'Gmail', 
+		auth: {
+			user: 'sajalarora007@gmail.com',
+			pass: 'Pillowtalk.111'
+		}
+	});
+	var mailOption = {
+		from: req.body.email,
+		to: 'sajalarora007@gmail.com',
+		subject: req.body.name,
+		text: 'Hello there,\n\n' + req.body.message
+	}
+	transporter.sendMail(mailOption, function(error, info){
+		if (error) {
+			console.log(error)
+		}
+		else {
+			console.log("Message sent sucessfully...");
+		}
+	});
+}
 
 exports.notFound = function(req,res){
 	res.send("<h1>Sorry, this page is not fouund.</h1>");

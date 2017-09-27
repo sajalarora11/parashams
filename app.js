@@ -1,5 +1,6 @@
 var express = require('express');
-var nodemailer
+var nodemailer = require('nodemailer');
+var bodyParser = require('body-parser');
 
 var app = express();
 
@@ -19,6 +20,8 @@ app.get('/gallery', route.gallery);
 app.get('/about', route.about);
 
 app.get('/contact', route.contact);
+
+app.post('/send', route.send);
 
 app.get('*', route.notFound);
 
